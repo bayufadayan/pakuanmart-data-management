@@ -2,7 +2,7 @@
 
 **Tugas akhir Algoritma dan Pemrograman Dasar semester 2**
 
-**Reposotory:** [Click Here](https://github.com/bayufadayan/pakuanmart-data-managemen)
+**Reposotory:** [Click Here](https://github.com/bayufadayan/pakuanmart-data-management)
 
 ### Screenshots:
 
