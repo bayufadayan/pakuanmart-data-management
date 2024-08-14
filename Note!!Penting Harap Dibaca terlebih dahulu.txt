@@ -1,0 +1,6 @@
+Dikarenakan program ini sebagian teks program didalamnya menggunakan operasi file "ifstream", anda harus memasukkan beberapa file berformat (.txt) 
+yang berada didalam folder ini bersama source programnya, jika anda menggunakan VS Studio code, anda hanya harus menambahkan file 
+dengan menggunakan menu di bagian explorer disamping atas kiri yang bergambar kertas plus,lalu tambahkan beberapa file (.txt) ini
+
+lalu jalankan programnya,, terima kasih telah membaca ini sebelumnya :)
+dan selamat mencoba... (;
